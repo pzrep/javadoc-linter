@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: Checkout for build
-      uses: actions/checkout@v2.3.2
+      uses: actions/checkout@v2.3.3
     - name: Set up JDK ${{ matrix.java_version }}
       uses: actions/setup-java@v1
       with:
