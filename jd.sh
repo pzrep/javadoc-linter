@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 echo PATH: $PATH
 echo JAVA_HOME: $JAVA_HOME
 
